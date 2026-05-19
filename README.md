@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somesh</h1>
-<h3 align="center">🤖 ML Enthusiast | 📊 Aspiring Data Scientist | 🎓 B.E Graduate</h3>
+<h3 align="center">🤖 ML Enthusiast | 📊 Aspiring Data Analyst | 🎓 B.Tech Graduate</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/somesh-ramesh" target="_blank">
@@ -13,7 +13,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🎓 B.E Graduate — passionate about **Machine Learning & Data Science**
+- 🎓 B.TEch Graduate — passionate about **Machine Learning & Data Science**
 - 🏥 Built a **CNN model for Retinal Disease Detection** using TensorFlow
 - 🎬 Built a **Movie Recommendation System** (Content + Collaborative Filtering)
 - 🌱 Currently levelling up: **SQL & Advanced Deep Learning**
