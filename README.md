@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somesh</h1>
-<h3 align="center">🤖 ML Enthusiast | 📊 Aspiring Data Analyst | 🎓 B.Tech Graduate</h3>
+<h3 align="center">🤖 ML Enthusiast |Software Engineer |data Analyst| 🎓 B.Tech Graduate</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/somesh-ramesh" target="_blank">
